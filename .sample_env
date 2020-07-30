@@ -1,0 +1,3 @@
+# Replace these with your creds and rename the file to ".env"
+EMAIL="person@example.com"
+PASSWORD="supersecret"
